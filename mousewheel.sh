@@ -39,4 +39,3 @@ sed -i "s/\($TARGET_KEY *Button5, *\).*/\1$NEW_VALUE/" ~/.imwheelrc # find the s
 
 cat ~/.imwheelrc
 imwheel -kill
-
